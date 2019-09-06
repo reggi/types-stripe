@@ -1,0 +1,171 @@
+{
+    "name": "@reggi/types-stripe",
+    "version": "6.31.25-0",
+    "description": "TypeScript definitions for stripe",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "William Johnston",
+            "url": "https://github.com/wjohnsto",
+            "githubUsername": "wjohnsto"
+        },
+        {
+            "name": "Peter Harris",
+            "url": "https://github.com/codeanimal",
+            "githubUsername": "codeanimal"
+        },
+        {
+            "name": "Sampson Oliver",
+            "url": "https://github.com/sampsonjoliver",
+            "githubUsername": "sampsonjoliver"
+        },
+        {
+            "name": "Linus Unnebäck",
+            "url": "https://github.com/LinusU",
+            "githubUsername": "LinusU"
+        },
+        {
+            "name": "Brannon Jones",
+            "url": "https://github.com/brannon",
+            "githubUsername": "brannon"
+        },
+        {
+            "name": "Kyle Kamperschroer",
+            "url": "https://github.com/kkamperschroer",
+            "githubUsername": "kkamperschroer"
+        },
+        {
+            "name": "Kensuke Hoshikawa",
+            "url": "https://github.com/starhoshi",
+            "githubUsername": "starhoshi"
+        },
+        {
+            "name": "Thomas Bruun",
+            "url": "https://github.com/bruun",
+            "githubUsername": "bruun"
+        },
+        {
+            "name": "Gal Talmor",
+            "url": "https://github.com/galtalmor",
+            "githubUsername": "galtalmor"
+        },
+        {
+            "name": "Hunter Tunnicliff",
+            "url": "https://github.com/htunnicliff",
+            "githubUsername": "htunnicliff"
+        },
+        {
+            "name": "Tyler Jones",
+            "url": "https://github.com/squirly",
+            "githubUsername": "squirly"
+        },
+        {
+            "name": "Troy Zarger",
+            "url": "https://github.com/tzarger",
+            "githubUsername": "tzarger"
+        },
+        {
+            "name": "Ifiok Jr.",
+            "url": "https://github.com/ifiokjr",
+            "githubUsername": "ifiokjr"
+        },
+        {
+            "name": "Slava Yultyyev",
+            "url": "https://github.com/yultyyev",
+            "githubUsername": "yultyyev"
+        },
+        {
+            "name": "Corey Psoinos",
+            "url": "https://github.com/cpsoinos",
+            "githubUsername": "cpsoinos"
+        },
+        {
+            "name": "Adam Duren",
+            "url": "https://github.com/adamduren",
+            "githubUsername": "adamduren"
+        },
+        {
+            "name": "Saransh Kataria",
+            "url": "https://github.com/saranshkataria",
+            "githubUsername": "saranshkataria"
+        },
+        {
+            "name": "Jonas Keisel",
+            "url": "https://github.com/0xJoKe",
+            "githubUsername": "0xJoKe"
+        },
+        {
+            "name": "Andrew Delianides",
+            "url": "https://github.com/delianides",
+            "githubUsername": "delianides"
+        },
+        {
+            "name": "Gokul Chandrasekaran",
+            "url": "https://github.com/gokulchandra",
+            "githubUsername": "gokulchandra"
+        },
+        {
+            "name": "Jamie Davies",
+            "url": "https://github.com/viralpickaxe",
+            "githubUsername": "viralpickaxe"
+        },
+        {
+            "name": "Christopher Eck",
+            "url": "https://github.com/chrisleck",
+            "githubUsername": "chrisleck"
+        },
+        {
+            "name": "Joshua Feltimo",
+            "url": "https://github.com/opticalgenesis",
+            "githubUsername": "opticalgenesis"
+        },
+        {
+            "name": "Josiah",
+            "url": "https://github.com/spacetag",
+            "githubUsername": "spacetag"
+        },
+        {
+            "name": "Oleg Vaskevich",
+            "url": "https://github.com/vaskevich",
+            "githubUsername": "vaskevich"
+        },
+        {
+            "name": "Dylan Aspden",
+            "url": "https://github.com/dhaspden",
+            "githubUsername": "dhaspden"
+        },
+        {
+            "name": "Ethan Setnik",
+            "url": "https://github.com/esetnik",
+            "githubUsername": "esetnik"
+        },
+        {
+            "name": "Pavel Ivanov",
+            "url": "https://github.com/schfkt",
+            "githubUsername": "schfkt"
+        },
+        {
+            "name": "Chris Zieba",
+            "url": "https://github.com/ChrisZieba",
+            "githubUsername": "ChrisZieba"
+        },
+        {
+            "name": "Jeffery Grajkowski",
+            "url": "https://github.com/pushplay",
+            "githubUsername": "pushplay"
+        }
+    ],
+    "main": "",
+    "types": "index",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/stripe"
+    },
+    "scripts": {},
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "typesPublisherContentHash": "4eed0238cd380bbb661e190a8f0eb44a120d2add138ca9a981a1c907385ee2da",
+    "typeScriptVersion": "2.8"
+}
